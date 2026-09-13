@@ -4,7 +4,7 @@ A collection of practical examples and samples demonstrating how to build intell
 
 ## Overview
 
-This repository contains various sample implementations showcasing different patterns, techniques, and use cases for building with LangGraph. Whether you're just getting started or looking to implement advanced agent architectures, you'll find useful examples here.
+This repository contains various sample implementations based on my learnings and experiences related to LLMs, LangGraph, LangChain, RAG and Graph so that I can refer from them in the future.
 
 ## What is LangGraph?
 
@@ -14,9 +14,7 @@ LangGraph is a library for building stateful, multi-actor applications with LLMs
 
 ```
 langgraph-samples/
-├── agents/          # Example agent implementations
-├── workflows/       # Workflow pattern examples
-├── tools/           # Custom tool implementations
+├── src/          # Sample Python files
 └── readme.md        # This file
 ```
 
