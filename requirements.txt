@@ -1,0 +1,8 @@
+numpy
+pandas
+
+# LangChain components
+langchain
+langchain-openai
+langchain-community
+langchain-core
